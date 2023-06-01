@@ -13,13 +13,13 @@ const Search = () => {
         r="6"
         fill="#FFF9F3"
         stroke="#5F5F5F"
-        stroke-width="2"
+        strokeWidth="2"
       />
       <path
         d="M20 20L17 17"
         stroke="#5F5F5F"
-        stroke-width="2"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
     </svg>
   );
